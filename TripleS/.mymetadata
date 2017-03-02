@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TripleS"
+  id="myeclipse.1488440459340"
+  context-root="/TripleS"
+  j2ee-spec="6.0"
+  archive="TripleS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
